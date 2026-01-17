@@ -1,6 +1,4 @@
-/* ================================
-   FEATURED COURSES (HOME PAGE)
-================================ */
+
 
 // Enhanced Featured Courses
 const featuredCourses = [
@@ -194,5 +192,6 @@ document.addEventListener("DOMContentLoaded", () => {
     bar.querySelector("span").style.height = height + "%";
   });
 });
+
 
 
