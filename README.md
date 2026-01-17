@@ -43,4 +43,16 @@ Profile management with editable user details
 Clean layout with reusable components and consistent styling
 
 ## OUTPUT
+*HOME UI*
+<img width="1912" height="907" alt="Image" src="https://github.com/user-attachments/assets/c57d1434-1290-4ea7-b1d1-964522329db5" />
+<img width="1912" height="921" alt="Image" src="https://github.com/user-attachments/assets/186fceb5-0f7e-44b1-8a80-0b5ce0a480d7" />
+
+*DASHBOARD*
+<img width="1893" height="926" alt="Image" src="https://github.com/user-attachments/assets/79daa948-13c2-4dd9-a006-739f90f5013e" />
+
+*PROFILE*
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/68a90874-8967-4fc4-aac5-25844de0ee6d" />
+
+*VIDEO LECTURE*
+<img width="1917" height="901" alt="Image" src="https://github.com/user-attachments/assets/00807b8b-bc07-4207-8692-8735b48b3886" />
 
